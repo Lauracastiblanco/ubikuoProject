@@ -1,6 +1,6 @@
 <%-- 
     Document   : prueba
-    Created on : 28/04/2023, 08:08:57 AM
+    Created on : 28/04/2023, 08:42:16 AM
     Author     : APRENDIZ
 --%>
 
@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>PRUEBA</h1>
+        <h1>Hello World!</h1>
     </body>
 </html>
